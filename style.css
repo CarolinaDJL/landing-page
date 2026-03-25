@@ -63,3 +63,22 @@ button {
     border-radius: 15px;
     margin: 5px 20px 0px 20px;
 }
+.section-three {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding: 0 200px;
+}
+.section-three p {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: 'Roboto', arial;
+}
+.section-three b {
+    padding-bottom: 20px;
+    padding-right: 10px;
+    font-family: 'Roboto', arial;
+    text-align: right;
+}
